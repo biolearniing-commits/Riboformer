@@ -19,4 +19,9 @@ class Config(object):
         self.activation = activation        # activation function used
         
     def __repr__(self):
-        return '\n'.join(['%s: %s' % (key, str(value)) for key, value in self.__dict__.items()])
+        return '\n'.join(['%s: %s' % (key, str(value)) for key, value in self.__dict__.items()]
+
+
+
+                dgdfgdfgdfgdfgdfgdfgdfgdfgdgiq:wq
+                )
